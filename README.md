@@ -5,3 +5,7 @@ The goal is to do emotional engagement data analysis to help businesses and poli
 The dataset is chunks of text responses collected by the chatbot. 
 
 The demo will represent part of the data within certain time frame. 
+
+Tips:
+Don't use import *, which will cause inefficiency!
+
